@@ -9,7 +9,8 @@
   English Portuguese
 </p>
 <h3 align="left">Socials</h3>
-<a href="https://instagram.com/@nyanmixwooy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nyanmixwooy" height="30" width="40" /></a>
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
+"https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
