@@ -10,7 +10,7 @@
   English Portuguese
 </p>
 <h3 align="left">Socials</h3>
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fanime-girl-doing-fast-typing-74vag9n7is9rzqv2.html&psig=AOvVaw1WGX26Gpucf7uqyQRfpuqw&ust=1692900611574000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMj567aw84ADFQAAAAAdAAAAABAD)">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
