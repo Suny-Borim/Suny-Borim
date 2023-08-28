@@ -14,4 +14,4 @@
 </p>
 <a align="right">
 </a>
-![Logo do Markdown](.src/first.png)
+![](src/first.png)
