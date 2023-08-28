@@ -12,6 +12,4 @@
 <h3 align="left">Socials</h3>
 <a href="https://instagram.com/nyanmixwooy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyanmixwooy" height="30" width="40" /></a>
 </p>
-<a align="right">
-  <img src="/scr/first.gif">
-</a>
+ <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />
