@@ -12,3 +12,5 @@
 <h3 align="left">Socials</h3>
 <a href="https://instagram.com/nyanmixwooy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyanmixwooy" height="30" width="40" /></a>
 </p>
+<a align="right">
+![Logo do Markdown](src/first.png)</a>
