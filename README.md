@@ -1,6 +1,6 @@
 <h3 align="center">A passionate full-stack developer from Brasil</h3>
 
-<img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_400.gifv"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   millieborim@gmail.com
