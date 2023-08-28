@@ -1,8 +1,8 @@
 <h3 align="center">A passionate full-stack developer from Brasil</h3>
 
 <h3 align="left">Languages:</h3>
-<img align="left" height="150" src="src/portuguese"/>
-<img align="left" height="150" src="src/english"/>
+<img align="left" height="150" src="src/portuguese.png"/>
+<img align="left" height="150" src="src/english.png"/>
 <p align="left">
 
 </p>
