@@ -1,3 +1,13 @@
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mixMimi&locale=br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <br>
 <img align="right" width="500" src="src/HelloKitty.jpg" />
 <div align="left">
@@ -5,7 +15,7 @@
 <h3 >Socials</h3>
 <a href="https://instagram.com/nyanmixwooy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyanmixwooy" height="30" width="40" /></a>
 <a href="https://twitter.com/mixmimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mixmimi" height="30" width="40" /></a>
-<a href="https://discord.gg/mixMimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mixMimi" height="30" width="40" /></a>
+<a href="https://discord.gg/NNVp9Qq6zQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mixMimi" height="30" width="40" /></a>
 </div>
 
 
