@@ -2,11 +2,12 @@
 
 <br>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mixmimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mixmimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 
 
 <div align="left">
 <img  height="150" src="src/first.gif"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mixmimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <h3 >Socials</h3>
 <a href="https://instagram.com/nyanmixwooy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyanmixwooy" height="30" width="40" /></a>
 <a href="https://twitter.com/mixmimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mixmimi" height="30" width="40" /></a>
