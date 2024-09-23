@@ -11,6 +11,7 @@
 <a href="https://instagram.com/nyanmixwooy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyanmixwooy" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/mixmimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mixmimi" height="30" width="40" /></a>
 <a href="https://discord.gg/NNVp9Qq6zQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mixMimi" height="30" width="40" /></a>
+!-->
 </div>
 
 
