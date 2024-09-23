@@ -9,7 +9,7 @@
 
 <h3 >Socials</h3>
 <a href="https://instagram.com/nyanmixwooy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyanmixwooy" height="30" width="40" /></a>
-<a href="https://twitter.com/mixmimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mixmimi" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/mixmimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mixmimi" height="30" width="40" /></a>
 <a href="https://discord.gg/NNVp9Qq6zQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mixMimi" height="30" width="40" /></a>
 </div>
 
@@ -22,9 +22,10 @@
 
 <div align="left">
   <h3>Follow me on:<h3>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"  href="https://www.youtube.com/@evycoffy" target="blank" height="35" alt="youtube logo"  />
+ <!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"  href="https://www.youtube.com/@evycoffy" target="blank" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> 
+
   <a href="https://www.linkedin.com/in/suny-borim"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
