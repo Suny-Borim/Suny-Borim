@@ -91,7 +91,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
-<h2>🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suny-Borim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
