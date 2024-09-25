@@ -92,11 +92,12 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Suny-Borim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 <h2>operational systems</h2>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </div>
+<br>
+  <br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Suny-Borim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
