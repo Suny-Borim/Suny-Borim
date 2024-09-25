@@ -3,10 +3,9 @@
 
 
 <div align="left">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=suny-borim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="145" alt="stats graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suny-borim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 <img  height="150" src="src/first.gif"  />
-![](https://github-readme-stats.vercel.app/api?username=Suny-Borim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Suny-Borim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suny-Borim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suny-Borim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
