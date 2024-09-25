@@ -7,8 +7,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suny-borim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 <img  height="150" src="src/first.gif"  />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Suny-Borim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -92,6 +90,10 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+
+<h2>🏆 GitHub Trophies</h2>
+![](https://github-profile-trophy.vercel.app/?username=Suny-Borim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <h2>operational systems</h2>
 
