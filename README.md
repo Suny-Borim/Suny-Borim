@@ -34,7 +34,7 @@
 
 <br clear="both">
 <div align="CENTER">
-<h3>Worked with:</h3>
+<h3>Experience with with:</h3>
 
 <h2>Back-end</h2>
 
